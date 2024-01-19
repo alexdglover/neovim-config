@@ -1,6 +1,7 @@
 local servers = {
   "lua_ls",
-  "sorbet",
+  "ruby_ls",
+  -- "sorbet",
   "bashls",
   "yamlls",
   "pyright",
